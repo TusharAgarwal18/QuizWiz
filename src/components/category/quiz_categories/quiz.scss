@@ -1,0 +1,139 @@
+.App {
+  .quiz {
+    background-color: whitesmoke;
+    width: 500px; /*width of box*/
+    /* min-height: 200px;  add space b/w option boxes */
+    /* height: min-content; */
+    border-radius: 10px;
+    margin-top: 100px;
+    padding: 30px 60px;
+    box-shadow: 10px 10px 42px 0px rgba(63, 59, 59, 0.75);
+    box-sizing: border-box;
+    display: flex table-column;
+    justify-content: space-evenly;
+
+    .score-section {
+      display: flex;
+      font-size: 24px;
+      align-items: flex-start;
+      flex-flow: column;
+    }
+
+    .question-section {
+      width: 100%;
+      position: relative;
+
+      .question-count {
+        margin-bottom: 20px;
+        font-size: 16px;
+        font-weight: 500;
+        color: #9c9c9c;
+
+        span {
+          font-size: 32px;
+          font-weight: 500;
+          color: #9c9c9c;
+        }
+      }
+
+      .question-text {
+        font-size: 20px;
+        font-weight: 500;
+        margin: 0;
+      }
+    }
+
+    .answer-section {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      margin-top: 20px;
+
+      button {
+        text-align: left;
+      }
+    }
+
+    button {
+      width: 100%;
+      font-size: 16px;
+      color: #2b264b;
+      background-color: #ffffff;
+      border-radius: 16px;
+      padding: 11px;
+      border: 1px solid #9c9c9c;
+      cursor: pointer;
+      margin-top: 15px;
+      text-decoration: none;
+      text-align: center;
+
+      &:hover {
+        background-color: #150080;
+        border: 1px solid #d08642;
+        color: #ffffff;
+      }
+
+      &:focus {
+        outline: none;
+      }
+    }
+  }
+}
+
+// .score-section {
+// }
+
+// /* QUESTION/TIMER/LEFT SECTION */
+// .question-section {
+// }
+
+// /* Total number of questions count  */
+// .question-count {
+// }
+
+// /* active question number  */
+// .question-count span {
+// }
+
+// /* Question Text Style  */
+// .question-text {
+//   /* margin-bottom: 2px; */
+// }
+
+// .timer-text {
+//   background: rgb(230, 153, 12);
+//   padding: 15px;
+//   margin-top: 20px;
+//   margin-right: 20px;
+//   border: 5px solid rgb(255, 189, 67);
+//   border-radius: 15px;
+//   text-align: center;
+// }
+
+// /* ANSWERS/RIGHT SECTION */
+// .answer-section {
+//   /* width: 100%; */
+
+//   /* margin-left: 40px; */
+// }
+
+// button {
+// }
+
+// .correct {
+//   background-color: #2f922f;
+// }
+
+// .incorrect {
+//   background-color: #ff3333;
+// }
+
+// button:hover {
+// }
+
+// button:focus {
+// }
+
+// button svg {
+//   margin-right: 5px;
+// }

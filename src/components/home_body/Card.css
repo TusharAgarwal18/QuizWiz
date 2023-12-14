@@ -1,0 +1,67 @@
+.parent-home .card-container {
+  background-color: white;
+  width: 300px;
+  overflow: hidden;
+  height: 450px;
+  box-shadow: 0px 0px 15px -5x;
+  transition: 0.5s;
+  animation: ease-in-out;
+  display:flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.parent-home .card-container:hover {
+  transform: scale 1.1;
+  box-shadow: 0px 0px 20px 0px;
+}
+
+.parent-home .image-container img {
+  overflow: hidden;
+  height: 200px;
+  width: 100%;
+  max-width: 100%;
+}
+
+.parent-home .card-content {
+  margin: 1rem;
+  margin-top: 0.5rem;
+}
+
+.parent-home h3,
+.parent-home p {
+  margin: 0;
+  padding: 0;
+}
+
+.parent-home .card-title {
+  margin-bottom: 0.5rem;
+}
+
+.parent-home .btn {
+  display: flex;
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+}
+
+.parent-home .btn button {
+  padding: 0.5rem;
+  background-color: white;
+  border: none;
+  transition: 0.2s;
+  /* margin-bottom: 0.5rem; */
+  text-transform: uppercase;
+  border-radius: 3px;
+}
+
+.parent-home .btn button:hover {
+  background: rgba(27, 156, 252, 0.1);
+}
+
+.parent-home a {
+  text-transform: uppercase;
+  color: black;
+  text-decoration: none;
+  font-weight: bold;
+}

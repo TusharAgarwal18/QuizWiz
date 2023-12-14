@@ -1,0 +1,754 @@
+[
+  {
+    "gk": [
+      {
+        "Question": "What is the capital of India?",
+        "Answers": [
+          { "Answer": "Delhi", "key": 1, "isCorrect": true },
+          { "Answer": "Pune", "key": 2, "isCorrect": false },
+          { "Answer": "Ranchi", "key": 3, "isCorrect": false },
+          { "Answer": "Patna", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Who is the author of the famous novel Pride and Prejudice?",
+        "Answers": [
+          { "Answer": "Jane Austen", "key": 1, "isCorrect": true },
+          { "Answer": "William Shakespeare", "key": 2, "isCorrect": false },
+          { "Answer": " Charles Dickens", "key": 3, "isCorrect": false },
+          { "Answer": "F. Scott Fitzgerald", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which planet is known as the Red Planet?",
+        "Answers": [
+          { "Answer": "Venus", "key": 1, "isCorrect": false },
+          { "Answer": "Mars", "key": 2, "isCorrect": true },
+          { "Answer": "Jupiter", "key": 3, "isCorrect": false },
+          { "Answer": "Satrun", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+         "Question": "What is the chemical symbol for gold?",
+         "Answers":[
+           {"Answer": "Ag", "key": 1, "isCorrect": false},
+           {"Answer": "Au", "key": 2, "isCorrect": true},
+           {"Answer": "Hg", "key": 3, "isCorrect": false},
+           {"Answer": "Fe", "key": 4, "isCorrect": false}
+         ]
+      },
+      {
+        "Question": "Who painted the Mona Lisa?",
+        "Answers": [
+          { "Answer": "Vincent van Gogh", "key": 1, "isCorrect": false },
+          { "Answer": "Pablo Picasso", "key": 2, "isCorrect": false },
+          { "Answer": "Leonardo da Vinci", "key": 3, "isCorrect": true },
+          { "Answer": "Michelangelo", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the largest ocean in the world?",
+        "Answers": [
+          { "Answer": "Indian Ocean", "key": 1, "isCorrect": false },
+          { "Answer": "Atlantic Ocean", "key": 2, "isCorrect": false },
+          { "Answer": "Arctic Ocean", "key": 3, "isCorrect": false },
+          { "Answer": "Pacific Ocean", "key": 4, "isCorrect": true }
+        ]
+      },
+      {
+        "Question": "Which country is famous for the Taj Mahal?",
+        "Answers": [
+          { "Answer": "India", "key": 1, "isCorrect": true },
+          { "Answer": "China", "key": 2, "isCorrect": false },
+          { "Answer": "Egypt", "key": 3, "isCorrect": false },
+          { "Answer": "France", "key": 4, "isCorrect": false}
+        ]
+      },
+      {
+        "Question": "Who invented the telephone?",
+        "Answers": [
+          { "Answer": "Thomas Edison", "key": 1, "isCorrect": false },
+          { "Answer": "Nikola Tesla", "key": 2, "isCorrect": false },
+           { "Answer": " Alexander Graham Bell", "key": 3, "isCorrect": true },
+          { "Answer": " Isaac Newton", "key": 4, "isCorrect": false}
+        ]
+      },
+       {
+        "Question": " Which famous scientist developed the theory of relativity?",
+        "Answers": [
+          { "Answer": " Albert Einstein", "key": 1, "isCorrect": true },
+          { "Answer": "Galileo Galilei", "key": 2, "isCorrect": false },
+          { "Answer": "Marie Curie", "key": 3, "isCorrect": false },
+          { "Answer": " Isaac Newton", "key": 4, "isCorrect": false}
+        ]
+      },
+      {
+        "Question": " Who is the current President of the United States (as of 2021)?",
+        "Answers": [
+          { "Answer": " Joe Biden", "key": 1, "isCorrect": true },
+          { "Answer": "Donald Trump", "key": 2, "isCorrect": false },
+          { "Answer": "Barack Obama", "key": 3, "isCorrect": false },
+          { "Answer": " George W. Bush", "key": 4, "isCorrect": false}
+        ]
+      }
+    ]
+  },
+  {
+    "anime": [
+      {
+        "Question": "In the anime 'Naruto', who is known as the 'Copy Ninja'?",
+        "Answers": [
+          { "Answer": "Kakashi Hatake", "key": 1, "isCorrect": true },
+          { "Answer": "Sasuke Uchiha", "key": 2, "isCorrect": false },
+          { "Answer": "Jiraiya", "key": 3, "isCorrect": false },
+          { "Answer": "Itachi Uchiha", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which anime features a young boy named Gon Freecss on a quest to become a Hunter?",
+        "Answers": [
+          { "Answer": "One Piece", "key": 1, "isCorrect": false },
+          { "Answer": "Dragon Ball", "key": 2, "isCorrect": false },
+          { "Answer": "Hunter x Hunter", "key": 3, "isCorrect": true },
+          { "Answer": "My Hero Academia", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "In 'Attack on Titan', what are the giant humanoid creatures that threaten humanity called?",
+        "Answers": [
+          { "Answer": "Titans", "key": 1, "isCorrect": true },
+          { "Answer": "Kaiju", "key": 2, "isCorrect": false },
+          { "Answer": "Zombies", "key": 3, "isCorrect": false },
+          { "Answer": "Hollows", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which anime follows the story of two brothers, Edward and Alphonse, who use alchemy in their search for the Philosopher's Stone?",
+        "Answers": [
+          { "Answer": "Fullmetal Alchemist", "key": 1, "isCorrect": true },
+          { "Answer": "Bleach", "key": 2, "isCorrect": false },
+          { "Answer": "Fairy Tail", "key": 3, "isCorrect": false },
+          { "Answer": "Sword Art Online", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "In 'Death Note', what is the main character Light Yagami's alias as he tries to cleanse the world of criminals?",
+        "Answers": [
+          { "Answer": "L", "key": 1, "isCorrect": false },
+          { "Answer": "Near", "key": 2, "isCorrect": false },
+          { "Answer": "Kira", "key": 3, "isCorrect": true },
+          { "Answer": "Ryuk", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the name of the virtual reality MMORPG featured in 'Sword Art Online'?",
+        "Answers": [
+          { "Answer": "Aincrad", "key": 1, "isCorrect": true },
+          { "Answer": "Elder Tale", "key": 2, "isCorrect": false },
+          { "Answer": "Alfheim Online", "key": 3, "isCorrect": false },
+          { "Answer": "Log Horizon", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which anime series follows the adventures of Monkey D. Luffy and his crew of pirates?",
+        "Answers": [
+          { "Answer": "Naruto", "key": 1, "isCorrect": false },
+          { "Answer": "One Piece", "key": 2, "isCorrect": true },
+          { "Answer": "Fairy Tail", "key": 3, "isCorrect": false },
+          { "Answer": "Black Clover", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "In 'My Hero Academia', what is the main character Izuku Midoriya's Quirk?",
+        "Answers": [
+          { "Answer": "Explosion", "key": 1, "isCorrect": false },
+          { "Answer": "Super Strength", "key": 2, "isCorrect": false },
+          { "Answer": "One For All", "key": 3, "isCorrect": true },
+          { "Answer": "Half-Cold Half-Hot", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the name of the virtual reality world in 'Sword Art Online: Alicization'?",
+        "Answers": [
+          { "Answer": "ALO", "key": 1, "isCorrect": false },
+          { "Answer": "Underworld", "key": 2, "isCorrect": true },
+          { "Answer": "Gun Gale Online", "key": 3, "isCorrect": false },
+          { "Answer": "Accel World", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "In 'One Punch Man', what is the name of the hero who can defeat any opponent with a single punch?",
+        "Answers": [
+          { "Answer": "Genos", "key": 1, "isCorrect": false },
+          { "Answer": "Saitama", "key": 2, "isCorrect": true },
+          { "Answer": "Boros", "key": 3, "isCorrect": false },
+          { "Answer": "Mumen Rider", "key": 4, "isCorrect": false }
+        ]
+      }
+    ]
+  },
+  {
+    "tech": [
+      {
+        "Question": "What does CPU stand for?",
+        "Answers": [
+          { "Answer": "Computer Processing Unit", "key": 1, "isCorrect": false },
+          { "Answer": "Central Processing Unit", "key": 2, "isCorrect": true },
+          { "Answer": "Central Power Unit", "key": 3, "isCorrect": false },
+          { "Answer": "Computer Power Unit", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which company developed the first commercially successful handheld mobile phone?",
+        "Answers": [
+          { "Answer": "Apple", "key": 1, "isCorrect": false },
+          { "Answer": "Motorola", "key": 2, "isCorrect": true },
+          { "Answer": "Samsung", "key": 3, "isCorrect": false },
+          { "Answer": "Nokia", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What does HTML stand for?",
+        "Answers": [
+          { "Answer": "HyperText Markup Language", "key": 1, "isCorrect": true },
+          { "Answer": "HyperTool Markup Language", "key": 2, "isCorrect": false },
+          { "Answer": "Home Tool Markup Language", "key": 3, "isCorrect": false },
+          { "Answer": "HyperText Makeup Language", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which programming language is known as the 'mother of all languages'?",
+        "Answers": [
+          { "Answer": "Python", "key": 1, "isCorrect": false },
+          { "Answer": "C++", "key": 2, "isCorrect": false },
+          { "Answer": "Fortran", "key": 3, "isCorrect": false },
+          { "Answer": "Assembly Language", "key": 4, "isCorrect": true }
+        ]
+      },
+      {
+        "Question": "What does VPN stand for?",
+        "Answers": [
+          { "Answer": "Virtual Private Network", "key": 1, "isCorrect": true },
+          { "Answer": "Virtual Public Network", "key": 2, "isCorrect": false },
+          { "Answer": "Verified Private Network", "key": 3, "isCorrect": false },
+          { "Answer": "Visual Private Network", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which tech company's slogan is 'Think Different'?",
+        "Answers": [
+          { "Answer": "Microsoft", "key": 1, "isCorrect": false },
+          { "Answer": "Google", "key": 2, "isCorrect": false },
+          { "Answer": "Apple", "key": 3, "isCorrect": true },
+          { "Answer": "Amazon", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which computer component is responsible for temporarily storing data and programs currently being used by the CPU?",
+        "Answers": [
+          { "Answer": "Hard Disk Drive (HDD)", "key": 1, "isCorrect": false },
+          { "Answer": "Random Access Memory (RAM)", "key": 2, "isCorrect": true },
+          { "Answer": "Central Processing Unit (CPU)", "key": 3, "isCorrect": false },
+          { "Answer": "Graphics Processing Unit (GPU)", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which social media platform is known for its short video format and was launched in 2016?",
+        "Answers": [
+          { "Answer": "Facebook", "key": 1, "isCorrect": false },
+          { "Answer": "Twitter", "key": 2, "isCorrect": false },
+          { "Answer": "Instagram", "key": 3, "isCorrect": false },
+          { "Answer": "TikTok", "key": 4, "isCorrect": true }
+        ]
+      },
+      {
+        "Question": "What technology is used to connect wireless devices like smartphones and headphones to other devices?",
+        "Answers": [
+          { "Answer": "Bluetooth", "key": 1, "isCorrect": true },
+          { "Answer": "Wi-Fi", "key": 2, "isCorrect": false },
+          { "Answer": "NFC", "key": 3, "isCorrect": false },
+          { "Answer": "USB", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Who co-founded Microsoft along with Bill Gates?",
+        "Answers": [
+          { "Answer": "Steve Wozniak", "key": 1, "isCorrect": false },
+          { "Answer": "Paul Allen", "key": 2, "isCorrect": true },
+          { "Answer": "Larry Page", "key": 3, "isCorrect": false },
+          { "Answer": "Jeff Bezos", "key": 4, "isCorrect": false }
+        ]
+      }
+    ]
+  },
+  {
+    "science": [
+      {
+        "Question": "What is the chemical symbol for water?",
+        "Answers": [
+          { "Answer": "Wa", "key": 1, "isCorrect": false },
+          { "Answer": "H2O", "key": 2, "isCorrect": true },
+          { "Answer": "O2", "key": 3, "isCorrect": false },
+          { "Answer": "Co", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which gas do plants absorb for photosynthesis?",
+        "Answers": [
+          { "Answer": "Carbon Monoxide", "key": 1, "isCorrect": false },
+          { "Answer": "Oxygen", "key": 2, "isCorrect": false },
+          { "Answer": "Nitrogen", "key": 3, "isCorrect": false },
+          { "Answer": "Carbon Dioxide", "key": 4, "isCorrect": true }
+        ]
+      },
+      {
+        "Question": "What is the process by which plants make their own food?",
+        "Answers": [
+          { "Answer": "Respiration", "key": 1, "isCorrect": false },
+          { "Answer": "Fermentation", "key": 2, "isCorrect": false },
+          { "Answer": "Photosynthesis", "key": 3, "isCorrect": true },
+          { "Answer": "Transpiration", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which instrument is used to measure atmospheric pressure?",
+        "Answers": [
+          { "Answer": "Thermometer", "key": 1, "isCorrect": false },
+          { "Answer": "Barometer", "key": 2, "isCorrect": true },
+          { "Answer": "Anemometer", "key": 3, "isCorrect": false },
+          { "Answer": "Hygrometer", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the chemical symbol for iron?",
+        "Answers": [
+          { "Answer": "Ir", "key": 1, "isCorrect": false },
+          { "Answer": "Fe", "key": 2, "isCorrect": true },
+          { "Answer": "In", "key": 3, "isCorrect": false },
+          { "Answer": "Au", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+        "Answers": [
+          { "Answer": "Venus", "key": 1, "isCorrect": true },
+          { "Answer": "Mars", "key": 2, "isCorrect": false },
+          { "Answer": "Mercury", "key": 3, "isCorrect": false },
+          { "Answer": "Jupiter", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the unit of electric current?",
+        "Answers": [
+          { "Answer": "Watt", "key": 1, "isCorrect": false },
+          { "Answer": "Volt", "key": 2, "isCorrect": false },
+          { "Answer": "Ampere", "key": 3, "isCorrect": true },
+          { "Answer": "Ohm", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which scientist proposed the theory of general relativity?",
+        "Answers": [
+          { "Answer": "Albert Einstein", "key": 1, "isCorrect": true },
+          { "Answer": "Isaac Newton", "key": 2, "isCorrect": false },
+          { "Answer": "Galileo Galilei", "key": 3, "isCorrect": false },
+          { "Answer": "Marie Curie", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the largest organ in the human body?",
+        "Answers": [
+          { "Answer": "Heart", "key": 1, "isCorrect": false },
+          { "Answer": "Brain", "key": 2, "isCorrect": false },
+          { "Answer": "Skin", "key": 3, "isCorrect": true },
+          { "Answer": "Liver", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What type of energy does the sun primarily emit?",
+        "Answers": [
+          { "Answer": "Nuclear energy", "key": 1, "isCorrect": true },
+          { "Answer": "Wind energy", "key": 2, "isCorrect": false },
+          { "Answer": "Geothermal energy", "key": 3, "isCorrect": false },
+          { "Answer": "Hydroelectric energy", "key": 4, "isCorrect": false }
+        ]
+      }
+    ]
+  },
+  {
+    "sports": [
+      {
+        "Question": "Who is considered the greatest basketball player of all time?",
+        "Answers": [
+          { "Answer": "Kobe Bryant", "key": 1, "isCorrect": false },
+          { "Answer": "LeBron James", "key": 2, "isCorrect": false },
+          { "Answer": " Michael Jordan", "key": 3, "isCorrect": true },
+           { "Answer": "Magic Johnson", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "In which sport is the term 'birdie' used?",
+        "Answers": [
+          { "Answer": " Tennis", "key": 1, "isCorrect": false },
+          { "Answer": "Golf", "key": 2, "isCorrect": true },
+          { "Answer": "Soccer", "key": 3, "isCorrect": false },
+          { "Answer": " Cricket", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Who holds the record for the most goals scored in FIFA World Cup history?",
+        "Answers": [
+          { "Answer": "Lionel Messi", "key": 1, "isCorrect": false },
+          { "Answer": " Cristiano Ronaldo", "key": 2, "isCorrect": false },
+          { "Answer": " Miroslav Klose", "key": 3, "isCorrect": true },
+          { "Answer": "Neymar Jr.", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the national sport of Japan?",
+        "Answers": [
+          { "Answer": " Sumo wrestling", "key": 1, "isCorrect": true },
+          { "Answer": " Judo", "key": 2, "isCorrect": false },
+          { "Answer": " Karate", "key": 3, "isCorrect": false },
+          { "Answer": " Baseball", "key": 4, "isCorrect": false }
+        ]
+      },
+        {
+        "Question": "Which country has won the most Olympic gold medals in the history of the Summer Olympics?",
+        "Answers": [
+          { "Answer": " United States", "key": 1, "isCorrect": true },
+          { "Answer": " China", "key": 2, "isCorrect": false },
+          { "Answer": " Russia", "key": 3, "isCorrect": false },
+          { "Answer": " Germany", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Who won the FIFA Women's World Cup in 2019?",
+        "Answers": [
+          { "Answer": " China", "key": 1, "isCorrect": false },
+           { "Answer": " United States", "key": 2, "isCorrect": true },
+          { "Answer": " Russia", "key": 3, "isCorrect": false },
+          { "Answer": " Germany", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "In which sport would you find the terms 'love,' 'deuce,' and 'ace'?",
+        "Answers": [
+          { "Answer": " Tennis", "key": 1, "isCorrect": true },
+           { "Answer": " Basketball", "key": 2, "isCorrect":false },
+          { "Answer": " Volleyball", "key": 3, "isCorrect": false },
+          { "Answer": "Baseball", "key": 4, "isCorrect": false }
+        ]
+      },
+       {
+        "Question": "Which country hosted the 2018 FIFA World Cup?",
+        "Answers": [
+          { "Answer": "Germany", "key": 1, "isCorrect": false },
+           { "Answer": " Brazil", "key": 2, "isCorrect":false },
+          { "Answer": " Russia", "key": 3, "isCorrect": true },
+          { "Answer": " Francel", "key": 4, "isCorrect": false }
+        ]
+      },
+       {
+        "Question": " Who holds the record for the most home runs in Major League Baseball (MLB) history?",
+        "Answers": [
+          { "Answer": "Babe Ruth", "key": 1, "isCorrect": false },
+           { "Answer": "Hank Aaron", "key": 2, "isCorrect":false },
+          { "Answer": "  Barry Bonds", "key": 3, "isCorrect": true },
+          { "Answer": " Alex Rodriguez", "key": 4, "isCorrect": false }
+        ]
+      },
+       {
+        "Question": "Which city has hosted the most Olympic Games?",
+        "Answers": [
+          { "Answer": " London", "key": 1, "isCorrect": false },
+           { "Answer": "Paris", "key": 2, "isCorrect":true },
+          { "Answer": "   Tokyo", "key": 3, "isCorrect": false },
+          { "Answer": " Los Angeles", "key": 4, "isCorrect": false }
+        ]
+      }
+    ]
+  },
+  {
+    "gaming": [
+      {
+        "Question": "In which game do players control a character named 'Link' and embark on an adventure to rescue Princess Zelda?",
+        "Answers": [
+          { "Answer": "Final Fantasy", "key": 1, "isCorrect": false },
+          { "Answer": "The Legend of Zelda", "key": 2, "isCorrect": true },
+          { "Answer": "Super Mario Bros.", "key": 3, "isCorrect": false },
+          { "Answer": "Minecraft", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which gaming console was released by Sony Interactive Entertainment and competes with Xbox and Nintendo Switch?",
+        "Answers": [
+          { "Answer": "PlayStation", "key": 1, "isCorrect": true },
+          { "Answer": "Xbox", "key": 2, "isCorrect": false },
+          { "Answer": "Nintendo Switch", "key": 3, "isCorrect": false },
+          { "Answer": "Sega Genesis", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "In the game 'Minecraft,' what material is used to craft tools, weapons, and various other items?",
+        "Answers": [
+          { "Answer": "Iron", "key": 1, "isCorrect": false },
+          { "Answer": "Wood", "key": 2, "isCorrect": false },
+          { "Answer": "Diamond", "key": 3, "isCorrect": true },
+          { "Answer": "Gold", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which popular game features a battle royale mode called 'Warzone' and was developed by Infinity Ward?",
+        "Answers": [
+          { "Answer": "Fortnite", "key": 1, "isCorrect": false },
+          { "Answer": "Call of Duty: Modern Warfare", "key": 2, "isCorrect": true },
+          { "Answer": "Apex Legends", "key": 3, "isCorrect": false },
+          { "Answer": "PUBG", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the name of the famous plumber who appears in many Nintendo games, including 'Super Mario Bros.'?",
+        "Answers": [
+          { "Answer": "Luigi", "key": 1, "isCorrect": false },
+          { "Answer": "Wario", "key": 2, "isCorrect": false },
+          { "Answer": "Toad", "key": 3, "isCorrect": false },
+          { "Answer": "Mario", "key": 4, "isCorrect": true }
+        ]
+      },
+      {
+        "Question": "Which game features a fictional universe called Azeroth and has two opposing factions, the Alliance and the Horde?",
+        "Answers": [
+          { "Answer": "World of Warcraft", "key": 1, "isCorrect": true },
+          { "Answer": "The Elder Scrolls V: Skyrim", "key": 2, "isCorrect": false },
+          { "Answer": "Guild Wars 2", "key": 3, "isCorrect": false },
+          { "Answer": "Diablo III", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which gaming franchise features a futuristic war between humans and an alliance of aliens known as the Covenant?",
+        "Answers": [
+          { "Answer": "Halo", "key": 1, "isCorrect": true },
+          { "Answer": "Gears of War", "key": 2, "isCorrect": false },
+          { "Answer": "Destiny", "key": 3, "isCorrect": false },
+          { "Answer": "Borderlands", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "What is the main objective of the game 'Among Us'?",
+        "Answers": [
+          { "Answer": "Building structures", "key": 1, "isCorrect": false },
+          { "Answer": "Solving puzzles", "key": 2, "isCorrect": false },
+          { "Answer": "Surviving on an island", "key": 3, "isCorrect": false },
+          { "Answer": "Identifying the impostors and completing tasks", "key": 4, "isCorrect": true }
+        ]
+      },
+      {
+        "Question": "In the game 'The Elder Scrolls V: Skyrim,' what is the shout used by the Dragonborn to defeat enemies?",
+        "Answers": [
+          { "Answer": "Whirlwind Sprint", "key": 1, "isCorrect": false },
+          { "Answer": "Unrelenting Force", "key": 2, "isCorrect": true },
+          { "Answer": "Ice Form", "key": 3, "isCorrect": false },
+          { "Answer": "Dragonrend", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which game series features a post-apocalyptic world where the player must survive against mutated creatures and other dangers?",
+        "Answers": [
+          { "Answer": "Resident Evil", "key": 1, "isCorrect": false },
+          { "Answer": "Fallout", "key": 2, "isCorrect": true },
+          { "Answer": "The Last of Us", "key": 3, "isCorrect": false },
+          { "Answer": "BioShock", "key": 4, "isCorrect": false }
+        ]
+      }
+    ]
+  },
+  {
+    "movies": [
+      {
+        "Question": "Who directed the movie 'The Shawshank Redemption?'",
+        "Answers": [
+          { "Answer": " Martin Scorsese", "key": 1, "isCorrect": false },
+          { "Answer": "Quentin Tarantino", "key": 2, "isCorrect": false },
+          { "Answer": "Christopher Nolan", "key": 3, "isCorrect": false },
+          { "Answer": " Frank Darabont", "key": 4, "isCorrect": true }
+        ]
+      },
+      {
+        "Question": "Which actor portrayed the character of Tony Stark/Iron Man in the Marvel Cinematic Universe?",
+        "Answers": [
+          { "Answer": "Robert Downey Jr.", "key": 1, "isCorrect": true },
+          { "Answer": " Chris Hemsworth", "key": 2, "isCorrect": false },
+          { "Answer": "Chris Evans", "key": 3, "isCorrect": false },
+          { "Answer": "Tom Hiddleston", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which film won the Academy Award for Best Picture in 2020?",
+        "Answers": [
+          { "Answer": "Parasite", "key": 1, "isCorrect": true },
+          { "Answer": "1917", "key": 2, "isCorrect": false },
+          { "Answer": "Joker", "key": 3, "isCorrect": false },
+          { "Answer": " The Shape of Water", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Who played the role of Hermione Granger in the 'Harry Potter' film series?",
+        "Answers": [
+          { "Answer": "Emma Stone", "key": 1, "isCorrect": false },
+          { "Answer": " Emma Watson", "key": 2, "isCorrect": true },
+          { "Answer": "Emma Thompson", "key": 3, "isCorrect": false },
+          { "Answer": "  Emma Roberts", "key": 4, "isCorrect": false }
+        ]
+      },
+       {
+        "Question": " Which movie features the famous line, 'May the Force be with you'?",
+        "Answers": [
+          { "Answer": "Star Wars", "key": 1, "isCorrect":true },
+          { "Answer": "The Lord of the Rings: The Fellowship of the Ring", "key": 2, "isCorrect":false },
+          { "Answer": "The Matrix", "key": 3, "isCorrect": false },
+          { "Answer": "The Godfather", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Who directed the movie 'The Dark Knight'?",
+        "Answers": [
+          { "Answer": " Christopher Nolan", "key": 1, "isCorrect": true },
+          { "Answer": " Steven Spielberg", "key": 2, "isCorrect": false },
+          { "Answer": "Ridley Scott", "key": 3, "isCorrect": false },
+          { "Answer": "James Cameron", "key": 4, "isCorrect": false }
+        ]
+      },
+       {
+        "Question": "Which actress won the Academy Award for Best Actress for her role in the movie 'La La Land'?",
+        "Answers": [
+          { "Answer": "Meryl Streep", "key": 1, "isCorrect": false },
+          { "Answer": "Natalie Portman", "key": 2, "isCorrect": false },
+          { "Answer": " Emma Stone", "key": 3, "isCorrect": true },
+          { "Answer": " Jennifer Lawrence", "key": 4, "isCorrect": false }
+        ]
+      },
+        {
+        "Question": "Which movie franchise features the character Jack Sparrow?",
+        "Answers": [
+          { "Answer": " Pirates of the Caribbean", "key": 1, "isCorrect": true },
+          { "Answer": "Harry Potter", "key": 2, "isCorrect": false },
+          { "Answer": " The Fast and the Furious", "key": 3, "isCorrect": false },
+          { "Answer": "Mission: Impossible", "key": 4, "isCorrect": false }
+        ]
+      },
+          {
+        "Question": "Which movie franchise features the character Jack Sparrow?",
+        "Answers": [
+          { "Answer": "Quentin Tarantino", "key": 1, "isCorrect": false },
+          { "Answer": " Martin Scorsese", "key": 2, "isCorrect": false },
+          { "Answer": "Christopher Nolan", "key": 3, "isCorrect":true },
+          { "Answer": "David Fincher", "key": 4, "isCorrect": false }
+        ]
+      },
+             {
+        "Question": "Which film won the Best Animated Feature category at the 2021 Academy Awards?",
+        "Answers": [
+          { "Answer": "Soul", "key": 1, "isCorrect": true },
+          { "Answer": " Wolfwalkers", "key": 2, "isCorrect": false },
+          { "Answer": " Onward", "key": 3, "isCorrect":false },
+          { "Answer": "Raya and the Last Dragon", "key": 4, "isCorrect": false }
+        ]
+      }
+    ]
+  },
+  {
+    "coding": [
+      {
+        "Question": "What does HTML stand for?",
+        "Answers": [
+          { "Answer": "Hyper Text Markup Language", "key": 1, "isCorrect": true },
+          { "Answer": "Hyper Text Machine Language", "key": 2, "isCorrect": false },
+          { "Answer": "Hyperlinks Text Markup Language", "key": 3, "isCorrect": false },
+          { "Answer": "Home Tool Markup Language", "key": 4, "isCorrect": false }
+        ]
+      },
+      {
+        "Question": "Which programming language is often used for building web applications?",
+        "Answers": [
+          { "Answer": "Java", "key": 1, "isCorrect": false},
+          { "Answer": "Python", "key": 2, "isCorrect": false },
+          { "Answer": "C++", "key": 3, "isCorrect": false },
+          { "Answer": "JavaScript", "key": 4, "isCorrect":true }
+        ]
+      },
+      {
+        "Question": "What is the purpose of CSS in web development?",
+        "Answers": [
+          { "Answer": "To define the structure and layout of a web page", "key": 1, "isCorrect":false},
+          { "Answer": "To add interactivity and functionality to a web page", "key": 2, "isCorrect": false },
+          { "Answer": "To store and retrieve data from a web server", "key": 3, "isCorrect": false },
+          { "Answer": " To style and visually enhance a web page", "key": 4, "isCorrect":true }
+        ]
+      },
+       {
+        "Question": "Which data structure follows the Last-In-First-Out (LIFO) principle?",
+        "Answers": [
+          { "Answer": "Queue", "key": 1, "isCorrect": false},
+          { "Answer": "Stack", "key": 2, "isCorrect": true },
+          { "Answer": "Linked List", "key": 3, "isCorrect": false },
+          { "Answer": "Tree", "key": 4, "isCorrect":false}
+        ]
+      },
+       {
+        "Question": "What is the term used to describe a function that calls itself?",
+        "Answers": [
+          { "Answer": "Iteration", "key": 1, "isCorrect": false},
+          { "Answer": "Abstraction", "key": 2, "isCorrect": false },
+          { "Answer": "Recursion", "key": 3, "isCorrect": true },
+          { "Answer": "Encapsulation", "key": 4, "isCorrect":false }
+        ]
+      },
+        {
+        "Question": "Which operator is used to allocate memory dynamically in C++?",
+        "Answers": [
+          { "Answer": "delete", "key": 1, "isCorrect": false},
+          { "Answer": "free", "key": 2, "isCorrect": false },
+          { "Answer": "new", "key": 3, "isCorrect": true },
+          { "Answer": "malloc", "key": 4, "isCorrect":false }
+        ]
+      },
+      {
+        "Question": "Which programming language is known for its use in machine learning and data analysis?",
+        "Answers": [
+          { "Answer": "java", "key": 1, "isCorrect": false},
+          { "Answer": "Ruby", "key": 2, "isCorrect": false },
+          { "Answer": "Python", "key": 3, "isCorrect": true },
+          { "Answer": "C#", "key": 4, "isCorrect":false }
+        ]
+      },
+       {
+        "Question": "What does the acronym SQL stand for?",
+        "Answers": [
+          { "Answer": "Structured Query Language", "key": 1, "isCorrect":true},
+          { "Answer": "Standard Query Language", "key": 2, "isCorrect": false },
+          { "Answer": "Sequential Query Language", "key": 3, "isCorrect": false },
+          { "Answer": "Simple Query Language", "key": 4, "isCorrect":false }
+        ]
+      },
+        {
+        "Question": "What is the output of this code snippet ? console.log(2 + '2');",
+        "Answers": [
+          { "Answer": "4", "key": 1, "isCorrect":false},
+          { "Answer": "22", "key": 2, "isCorrect":true },
+          { "Answer": "24", "key": 3, "isCorrect": false },
+          { "Answer": "NaN", "key": 4, "isCorrect":false }
+        ]
+      },
+      {
+        "Question": "What does the acronym 'API' stand for in the context of software development?",
+        "Answers": [
+          { "Answer": "Application Programming Interface", "key": 1, "isCorrect":true},
+          { "Answer": " Advanced Programming Interface", "key": 2, "isCorrect":false },
+          { "Answer": "Automated Program Interface", "key": 3, "isCorrect": false },
+          { "Answer": " Algorithmic Programming Interface", "key": 4, "isCorrect":false }
+        ]
+      }
+    ]
+  }
+]

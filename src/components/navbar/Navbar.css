@@ -1,0 +1,107 @@
+.App header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  padding: 20px 100px;
+  background: url("../../images/backgroung2.png") no-repeat;
+  opacity: 0.85;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 99;
+}
+.App header .logo {
+  font-size: 2em;
+  color: yellow;
+  opacity: 1;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+          user-select: none;
+}
+.App header .navigation {
+  position: relative;
+}
+.App header .navigation a {
+  position: relative;
+  font-size: 1.1em;
+  color: yellow;
+  opacity: 1;
+  text-decoration: none;
+  font-weight: 500;
+  margin-left: 40px;
+}
+.App header .navigation a:hover::after {
+  transform-origin: left;
+  transform: scaleX(1);
+}
+.App header .navigation a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -6px;
+  width: 100%;
+  height: 3px;
+  background: yellow;
+  opacity: 1;
+  border-radius: 5px;
+  transform-origin: right;
+  transform: scaleX(0);
+  transition: transform 0.5s;
+}
+.App header .navigation .loginbtn {
+  width: 130px;
+  height: 50px;
+  background: transparent;
+  border: 2px solid yellow;
+  opacity: 1;
+  outline: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 1.1em;
+  color: yellow;
+  font-weight: 500;
+  margin-left: 40px;
+  transition: 0.5s;
+}
+.App header .navigation .loginbtn:hover {
+  background: yellow;
+  opacity: 1;
+  color: black;
+}
+@media (max-width: 976px) {
+  .App header .navigation .child-nav {
+    display: none;
+  }
+}
+.App header .menu {
+  display: none;
+  color: yellow;
+  font-size: 2em;
+  font-weight: 500;
+  margin-bottom: 10px;
+  justify-content: flex-end;
+  cursor: pointer;
+  width: 100%;
+}
+@media (max-width: 976px) {
+  .App header .menu {
+    display: flex;
+  }
+  .App header .menu.show ~ .navigation .child-nav {
+    display: flex;
+    position: absolute;
+    padding: 20px;
+    flex-flow: column;
+    right: 0;
+    row-gap: 20px;
+    background: url("../../images/backgroung2.png");
+    border-radius: 4px;
+  }
+  .App header .menu.show ~ .navigation .child-nav a {
+    margin-left: 10px;
+  }
+  .App header .menu.show ~ .navigation .child-nav .loginbtn {
+    margin-left: 0px;
+  }
+}/*# sourceMappingURL=Navbar.css.map */

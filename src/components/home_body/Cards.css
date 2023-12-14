@@ -1,0 +1,35 @@
+.homeSec {
+  display: flex;
+  justify-content: center;
+  margin-top: 80px;
+  /* height: 100%; */
+}
+.homeSec img {
+  /* background-size: cover;
+  background-position: center; */
+  width: 80%;
+  height: 100%;
+}
+
+.top-ctg-heading {
+  margin: 50px 15px 15px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: yellow;
+}
+
+.parent {
+  margin-top: 10px;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  width: 100%;
+  gap: 20px;
+}
+
+/* .child {
+  float: left;
+  margin-top: 80px;
+  margin-left: 40px;
+} */
